@@ -6,8 +6,7 @@ registrar atencion
 buscar medico por especialidad
 consultar historial
 salir
-seleccione una opcion: 1 
-codigo del paciente:p005
-nombre del paciente: rocio mamani 
-edad: cuarenta 
-la edad debe ser el numero 
+seleccione una opcion: 4
+codigo del paciente: p999
+codigo del medico: m001
+el paciente no existe
